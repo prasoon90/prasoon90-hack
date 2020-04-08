@@ -1,0 +1,26 @@
+{
+  "name": "prasoon90-hack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prasoon90/prasoon90-hack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prasoon90/prasoon90-hack/issues"
+  },
+  "homepage": "https://github.com/prasoon90/prasoon90-hack#readme",
+  "dependencies": {
+    "jsonfile": "^6.0.1",
+    "moment": "^2.24.0",
+    "random": "^2.2.0",
+    "simple-git": "^1.132.0"
+  },
+  "devDependencies": {}
+}
